@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Avik-creator
-- 👀 I’m interested in ...Java,Python
-- 🌱 I’m currently learning ...Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Avik-creator/Avik-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+name: Avik Mukherjee
+institution: Vivekananda Academy, Serampore Hoogly
+quote: Reach Your Peak, try to stay in it for long.
+github_user: Avik-creator.
+---
