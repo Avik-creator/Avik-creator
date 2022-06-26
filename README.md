@@ -186,7 +186,9 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/Avik-creator/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Avk-creator&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Avik-creator" /></a> </p>
+<p align="center"> 
+	[![trophy](https://github-profile-trophy.vercel.app/?username=Avik-creator)](https://github.com/Avik-creator/github-profile-trophy)
+
 	
 </details>
 
