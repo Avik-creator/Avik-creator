@@ -178,7 +178,7 @@
 
 ----
 
-<a href="https://github.com/Avik-creator"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Avik-creator&custom_title=Avik-creator's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/Avik-creator"><img alt="Avik-creator's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Avik-creator&custom_title=Avik-creator's%20Contribution%20Graph&theme=react-dark" /></a>
  
 </details>
 
