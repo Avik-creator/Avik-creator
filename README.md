@@ -192,6 +192,10 @@
 </details>
 
 </br></br>
+
+## Spotify 
+
+![Spotify](https://novatorem-ogfocqtu0-avik-creator.vercel.app/api/spotify)
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
