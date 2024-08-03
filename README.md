@@ -174,13 +174,6 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-
-<a href="https://github.com/Avik-creator"><img alt="Avik-creator's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Avik-creator&custom_title=Avik-creator's%20Contribution%20Graph&theme=react-dark" /></a>
- 
-</details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
