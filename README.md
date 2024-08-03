@@ -192,13 +192,3 @@
 </details>
 
 </br></br>
-
-## Spotify 
-
-![Spotify](https://novatorem-ogfocqtu0-avik-creator.vercel.app/api/spotify)
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/Avik-creator/Avik-creator/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
-</p>
