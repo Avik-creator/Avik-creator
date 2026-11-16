@@ -21,4 +21,4 @@ By taking them apart. A [Redis server](https://github.com/Avik-creator/redis_imp
 
 ---
 
-**[avikmukherjee.com](https://avikmukherjee.com)** · **[@avikm744](https://x.com/avikm744)**
+**[avikmukherjee.com](https://avikmukherjee.com)** · **[@avikhq](https://x.com/avikhq)**
